@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab2ActivitiesFragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="events">EVENTOS</string>
+    <string name="user">USUARIO</string>
+    <string name="sign_in">ACCEDER</string>
+    <string name="password">CONTRASEÑA</string>
+    <string name="confirmPassword">CONFIRMAR CONTRASEÑA</string>
+    <string name="email">CORREO ELECTRONICO</string>
+    <string name="nameEvent">NOMBRE DEL EVENTO</string>
+    <string name="description">DESCRIPCION</string>
+    <string name="responsable">NOMBRE DEL RESPONSABLE</string>
+    <string name="puntuacion">PUNTUACION</string>
+    <string name="sign_up">REGISTRARSE</string>
+    <string name="dates">FECHA</string>
+    <string name="ubicacion">UBICACION</string>
+    <string name="title_activity_navigation_drawer">EVENTOS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="visible">Visible</string>
+</resources>
